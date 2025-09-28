@@ -3,6 +3,7 @@ Collaborative DSA repo
 
 >[!Flow] Path
 → Learn “Object Oriented Programming” along with DSA
+>
 → Math [Factors, Primes (Sieve Of Eratosthenes), Modulo Arithmetic, GCD]
 → Array
 → String
